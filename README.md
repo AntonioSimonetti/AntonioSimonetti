@@ -8,7 +8,7 @@ Sono un appassionato di web dev. e mi piace lavorare con diverse tecnologie. Ecc
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="50" height="50">
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="50" height="50">
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" width="50" height="50">
-<img src="https://raw.githubusercontent.com/prettier/prettier-logo/master/images/prettier-banner-light.png" width=50 height="50">
+<img src="https://raw.githubusercontent.com/prettier/prettier-logo/master/images/prettier-banner-dark.png" width=50 height="50">
 </div>
 <br>
 🌱 I’m currently learning:
