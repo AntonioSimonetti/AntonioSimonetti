@@ -1,13 +1,12 @@
 # Ciao! Benvenuto sul mio profilo GitHub 👋
+
 <div style="border: 1px solid #ddd; border-radius: 4px; padding: 10px;">
-
 ```plaintext
-
 Nome: John Doe
 Occupazione: Sviluppatore software
 Linguaggi di programmazione: JavaScript, Python, HTML, CSS
 Progetti recenti: Repo1, Repo2, Repo3
-\```
+```
 </div>
 
 
