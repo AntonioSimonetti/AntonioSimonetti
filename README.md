@@ -10,27 +10,18 @@ const profile = {
 };
 
 function userLife(name, currentJob, mainLanguage, progettoAttuale) {
-  console.log(`Ciao, sono ${name}. Sono un ${currentJob} e il mio linguaggio principale è ${mainLanguage}. Al momento sto lavorando al progetto ${progettoAttuale}.`);
-
-  console.log("La vita è un viaggio pieno di scoperte e sfide. Come sviluppatori, possiamo paragonarla alla scrittura di codice.");
-
-  console.log(`Il mio nome rappresenta la mia identità, come una variabile costante che non cambia nel corso del tempo. Sono ${name}, e questo è chi sono.`);
-
-  console.log(`Il mio lavoro attuale rappresenta il mio ruolo nel mondo, come una variabile che può cambiare nel corso della mia carriera. Al momento sono un ${currentJob}, ma sono aperto a nuove opportunità.`);
-
-  console.log(`Il mio linguaggio principale rappresenta la mia competenza e la mia passione, come una variabile che guida le mie azioni e decisioni. Sono specializzato in ${mainLanguage} e mi piace esplorare nuove tecnologie.`);
-
-  console.log(`Il mio progetto attuale rappresenta la mia sfida attuale, come una variabile che mi spinge a imparare e crescere. Sto lavorando su ${progettoAttuale} per superare ostacoli e raggiungere il successo.`);
-
-  console.log("La vita di uno sviluppatore è un continuo apprendimento, una ricerca di soluzioni e un perseguimento di obiettivi. È un viaggio emozionante che ci offre infinite opportunità di crescita.");
-
-  console.log("Ricorda di goderti il percorso, affrontare le sfide con determinazione e imparare dalle esperienze lungo il cammino.");
-
-  console.log("Buona fortuna nella tua avventura di sviluppatore e nella tua vita!");
-
+  console.log(`Ciao, sono ${name},`);
+  console.log(`un ${currentJob} che ama programmare in ${mainLanguage}.`);
+  console.log(`Attualmente sto lavorando su ${progettoAttuale}.`);
+  console.log(`simile alla scrittura di codice.`);
+  console.log(`È un percorso di apprendimento costante,`);
+  console.log(`in cui la tua identità e il tuo ruolo possono evolvere nel tempo.`);
+  console.log(`Tieni sempre viva la tua passione per la tecnologia`);
+  console.log(`e approfitta delle opportunità di crescita che si presentano lungo il cammino.`);
+  console.log(`Buona fortuna nella tua avventura come sviluppatore e nella tua vita!`);
 }
 
-// Utilizzo della funzione userLife con le informazioni fornite
+// Start the user
 userLife("Antonio Simonetti", "Web Developer", "JavaScript", "whereIsWaldo");
 ```
 
