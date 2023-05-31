@@ -8,8 +8,7 @@ Occupazione: Sviluppatore Web
 Linguaggi di programmazione: JavaScript, Python, HTML, CSS
 const progettoAttuale = whereIsWaldo;
 </div>
-
-```
+\```
 Sono un appassionato di web dev. e mi piace lavorare con diverse tecnologie. Ecco alcune delle tecnologie che utilizzo:
 <br>
 <div style="display: flex; justify-content: space-between;">
