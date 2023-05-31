@@ -1,15 +1,11 @@
 # Ciao! Benvenuto sul mio profilo GitHub 👋
 
-<div style="border: 1px solid #ddd; border-radius: 4px; padding: 10px;">
 ```plaintext
-Nome: John Doe
-Occupazione: Sviluppatore software
+Nome: Antonio Simonetti
+Occupazione: Sviluppatore Web
 Linguaggi di programmazione: JavaScript, Python, HTML, CSS
-Progetti recenti: Repo1, Repo2, Repo3
+const progettoAttuale = whereIsWaldo;
 ```
-</div>
-
-
 Sono un appassionato di web dev. e mi piace lavorare con diverse tecnologie. Ecco alcune delle tecnologie che utilizzo:
 <br>
 <div style="display: flex; justify-content: space-between;">
