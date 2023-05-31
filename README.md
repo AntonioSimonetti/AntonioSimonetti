@@ -1,6 +1,6 @@
-👋 # Ciao! Benvenuto sul mio profilo GitHub 
+# Ciao! Benvenuto sul mio profilo GitHub 👋
 
-💼 Sono un appassionato di web dev. e mi piace lavorare con diverse tecnologie. Ecco alcune delle tecnologie che utilizzo:
+Sono un appassionato di web dev. e mi piace lavorare con diverse tecnologie. Ecco alcune delle tecnologie che utilizzo:
 <br>
 <div style="display: flex; justify-content: space-between;">
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="50" height="50">
