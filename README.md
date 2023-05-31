@@ -2,10 +2,12 @@
 
 ```javascript
 
-const Name = Antonio Simonetti;
-const currentJob = Sviluppatore Web;
-const mainLanguage = JavaScript;
-const progettoAttuale = "whereIsWaldo";
+const profile = {
+  name: "Antonio Simonetti",
+  currentJob: "Web Developer",
+  mainLanguage: "JavaScript",
+  progettoAttuale: "whereIsWaldo",
+};
 ```
 
 Sono un appassionato di web dev. e mi piace lavorare con diverse tecnologie. Ecco alcune delle tecnologie che utilizzo:
