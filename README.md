@@ -1,4 +1,4 @@
-# Ciao! Benvenuto sul mio profilo GitHub 👋
+# Hi! Welcome to my GitHub profile! 👋
 
 ```javascript
 
@@ -7,13 +7,15 @@ const profile = {
   position: "italy",
   currentJob: "Web Developer",
   mainLanguage: "JavaScript",
+  prevProjects: [shoppingCart, memoryCard, battleship]
   currentProject: "whereIsWaldo",
+  challenge: "complete the odin project curriculum ",
 };
 
 function userLife(name, currentJob, mainLanguage, progettoAttuale) {
   console.log(`Ciao, sono ${name}`);
   console.log(`un ${currentJob} che ama programmare in ${mainLanguage}`);
-  console.log(`in questo momento mi trovo ${position}`);
+  console.log(`in questo momento mi trovo in ${position}`);
   console.log(`Attualmente sto lavorando su ${currentProject}`);
 }
 
@@ -21,7 +23,8 @@ function userLife(name, currentJob, mainLanguage, progettoAttuale) {
 userLife("Antonio Simonetti", "Web Developer", "JavaScript", "whereIsWaldo");
 ```
 
-Sono un appassionato di web dev. e mi piace lavorare con diverse tecnologie. Ecco alcune delle tecnologie che utilizzo:
+I enjoy working with various technologies. Here are some of the technologies I use:
+
 <br>
 <div style="display: flex; justify-content: space-between;">
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="50" height="50">
@@ -45,7 +48,7 @@ Sono un appassionato di web dev. e mi piace lavorare con diverse tecnologie. Ecc
 </div>
 
 
-## Contattami
+## Contact me
 <a href="https://www.linkedin.com/in/antonio-simonetti-it/">
 <img src="https://camo.githubusercontent.com/a493f6833f99fb3c85788d6d9305e6b7a42b838e5ee5d138fd9a8214a7e77472/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d2532333030373742352e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" width="80" height="30">
 </a>
