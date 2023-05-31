@@ -17,7 +17,7 @@ Sono un appassionato di web dev. e mi piace lavorare con diverse tecnologie. Ecc
 <br>
 <div style="display: flex; justify-content: space-between;">
 <img src="https://cdn.auth0.com/blog/testing-react-with-jest/logo.png" width="50" height="50">
-<img src="https://reactrouter.com/twitterimage.jpg" width="30" height="40">
+<img src="https://reactrouter.com/twitterimage.jpg" width="50" height="50">
 </div>
 
 
