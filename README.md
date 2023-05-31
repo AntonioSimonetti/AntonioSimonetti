@@ -9,6 +9,7 @@ Sono un appassionato di web dev. e mi piace lavorare con diverse tecnologie. Ecc
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="50" height="50">
 <img src="https://nodejs.dev/static/images/brand/logos-js-bottom/dark.svg" width="50" height="50">
 <img src="https://avatars.githubusercontent.com/u/25822731?s=200&v=4" width=50 height="50">
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/ESLint_logo.svg" width="50" height="50">
 <img src="https://firebase.google.com/static/images/brand-guidelines/logo-knockout.png" width=50 height="50">
 </div>
 <br>
