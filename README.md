@@ -1,6 +1,6 @@
 # Ciao! Benvenuto sul mio profilo GitHub 👋
 
-```plaintext
+```javascript
 Nome: Antonio Simonetti
 Occupazione: Sviluppatore Web
 Linguaggi di programmazione: JavaScript, Python, HTML, CSS
