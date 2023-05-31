@@ -6,7 +6,7 @@ Nome: Antonio Simonetti
 Occupazione: Sviluppatore Web
 Linguaggi di programmazione: JavaScript, Python, HTML, CSS
 const progettoAttuale = "whereIsWaldo";
-\```
+```
 
 Sono un appassionato di web dev. e mi piace lavorare con diverse tecnologie. Ecco alcune delle tecnologie che utilizzo:
 <br>
