@@ -7,6 +7,33 @@ Linguaggi di programmazione: JavaScript, Python, HTML, CSS
 Progetti recenti: Repo1, Repo2, Repo3
 ```
 
+<style>
+code {
+  display: block;
+  padding: 10px;
+  background-color: #f7f7f7;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+}
+</style>
+Nell'esempio sopra, ho aggiunto un blocco di stile inline con la sintassi <style>...</style> direttamente nel README.md. All'interno dello stile, ho selezionato l'elemento <code> (usato per delimitare il blocco di codice) e ho applicato i seguenti stili:
+
+display: block; per rendere il blocco di codice un elemento di blocco separato
+padding: 10px; per aggiungere un margine interno al blocco di codice
+background-color: #f7f7f7; per impostare il colore di sfondo del blocco di codice
+border: 1px solid #ddd; per aggiungere un bordo di 1 pixel con un colore grigio chiaro
+border-radius: 8px; per arrotondare i bordi del blocco di codice
+Assicurati di includere il blocco di stile <style>...</style> immediatamente dopo il blocco di codice che desideri formattare. In questo modo, lo stile sarà applicato solo a quel blocco di codice specifico.
+
+Ricorda che l'utilizzo di stili personalizzati all'interno di README.md può non essere supportato in tutti gli ambienti di visualizzazione o strumenti di rendering. Assicurati di verificare come viene visualizzato il tuo README.md sul tuo profilo GitHub dopo aver salvato le modifiche.
+
+
+
+
+
+
+
+
 Sono un appassionato di web dev. e mi piace lavorare con diverse tecnologie. Ecco alcune delle tecnologie che utilizzo:
 <br>
 <div style="display: flex; justify-content: space-between;">
