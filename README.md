@@ -7,7 +7,7 @@ const profile = {
   position: "italy",
   currentJob: "Web Developer",
   mainLanguage: "JavaScript",
-  prevProjects: [shoppingCart, memoryCard, battleship]
+  prevProjects: [shoppingCart, memoryCard, battleship],
   currentProject: "whereIsWaldo",
   challenge: "complete the odin project curriculum ",
 };
