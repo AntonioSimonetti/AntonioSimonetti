@@ -16,7 +16,7 @@ Sono un appassionato di web dev. e mi piace lavorare con diverse tecnologie. Ecc
 <br>
 <br>
 <div style="display: flex; justify-content: space-between;">
-<img src="https://logowik.com/content/uploads/images/jest-js7858.logowik.com.webp" width="30" height="40">
+<img src="https://logowik.com/content/uploads/images/jest-js7858.logowik.com.webp" width="50" height="50">
 <img src="https://reactrouter.com/_brand/react-router-mark-color.png" width="30" height="40">
 </div>
 
