@@ -1,4 +1,4 @@
-# Ciao! Benvenuto sul mio profilo GitHub 👋
+👋 # Ciao! Benvenuto sul mio profilo GitHub 
 
 💼 Sono un appassionato di web dev. e mi piace lavorare con diverse tecnologie. Ecco alcune delle tecnologie che utilizzo:
 <br>
