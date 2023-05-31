@@ -1,5 +1,9 @@
 # Ciao! Benvenuto sul mio profilo GitHub 👋
 
+<div style="display: flex; align-items: center;">
+  <span style="font-size: 30px;">👋</span>
+  <span style="font-size: 16px;">Ciao! Benvenuto sul mio profilo GitHub</span>
+</div>
 Sono un appassionato di web dev. e mi piace lavorare con diverse tecnologie. Ecco alcune delle tecnologie che utilizzo:
 <br>
 <div style="display: flex; justify-content: space-between;">
