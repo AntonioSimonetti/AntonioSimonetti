@@ -1,14 +1,14 @@
 # Ciao! Benvenuto sul mio profilo GitHub 👋
 
-<details>
-<summary>ℹ️ Informazioni personali</summary>
+```plaintext
 
+<div style="border: 1px solid #ddd; border-radius: 4px; padding: 10px;">
 Nome: John Doe
 Occupazione: Sviluppatore software
 Linguaggi di programmazione: JavaScript, Python, HTML, CSS
 Progetti recenti: Repo1, Repo2, Repo3
-
-</details>
+</div>
+\```
 
 Sono un appassionato di web dev. e mi piace lavorare con diverse tecnologie. Ecco alcune delle tecnologie che utilizzo:
 <br>
