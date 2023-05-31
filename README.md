@@ -6,7 +6,7 @@
 
 Sono un appassionato di sviluppo software e mi piace lavorare con diverse tecnologie. Ecco alcune delle tecnologie che conosco e utilizzo:
 
-![JavaScript](https://commons.wikimedia.org/wiki/File:JavaScript-logo.png)
+![JavaScript](https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png)
 ![HTML5](https://commons.wikimedia.org/wiki/File:HTML5_logo_and_wordmark.svg)
 ![CSS3](https://example.com/path/to/css3-logo.png)
 ![React](https://example.com/path/to/react-logo.png)
