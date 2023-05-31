@@ -2,9 +2,9 @@
 
 ```javascript
 
-Nome: Antonio Simonetti
-Occupazione: Sviluppatore Web
-Linguaggi di programmazione: JavaScript, Python, HTML, CSS
+const Name = Antonio Simonetti;
+const currentJob = Sviluppatore Web;
+const mainLanguage = JavaScript;
 const progettoAttuale = "whereIsWaldo";
 ```
 
