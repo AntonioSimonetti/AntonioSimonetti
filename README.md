@@ -3,20 +3,17 @@
 Sono un appassionato di sviluppo software e mi piace lavorare con diverse tecnologie. Ecco alcune delle tecnologie che conosco e utilizzo:
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="50" height="50">
-<img src="https://commons.wikimedia.org/wiki/File:HTML5_logo_and_wordmark.svg" width="50" height="50">
-![CSS3](https://example.com/path/to/css3-logo.png)
-![React](https://example.com/path/to/react-logo.png)
-![Node.js](https://example.com/path/to/nodejs-logo.png)
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="50" height="50">
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="50" height="50">
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="50" height="50">
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" width="50" height="50">
 
-Sono anche appassionato di data science e machine learning, e utilizzo queste librerie:
+🌱 I’m currently learning:
 
-![NumPy](https://example.com/path/to/numpy-logo.png)
-![Pandas](https://example.com/path/to/pandas-logo.png)
-![Scikit-learn](https://example.com/path/to/scikit-learn-logo.png)
-![TensorFlow](https://example.com/path/to/tensorflow-logo.png)
-![PyTorch](https://example.com/path/to/pytorch-logo.png)
+<img src="https://jestjs.io/img/jest-badge.svg" width="50" height="50">
+<img src="https://reactrouter.com/_brand/react-router-mark-color.png" width="50" height="50">
 
-Mi piace condividere il mio lavoro e contribuire a progetti open source. Dai un'occhiata ai miei repository per vedere cosa sto facendo di recente.
+
 
 ## Contattami
 
