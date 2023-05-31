@@ -12,6 +12,7 @@ Sono un appassionato di sviluppo software e mi piace lavorare con diverse tecnol
 <br>
 🌱 I’m currently learning:
 <br>
+<br>
 <div style="display: flex; justify-content: space-between;">
 <img src="https://jestjs.io/img/jest-badge.svg" width="50" height="50">
 <img src="https://reactrouter.com/_brand/react-router-mark-color.png" width="50" height="50">
