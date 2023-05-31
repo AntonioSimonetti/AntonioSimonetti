@@ -10,13 +10,14 @@ Sono un appassionato di web dev. e mi piace lavorare con diverse tecnologie. Ecc
 <img src="https://nodejs.dev/static/images/brand/logos-js-bottom/dark.svg" width="50" height="50">
 <img src="https://avatars.githubusercontent.com/u/25822731?s=200&v=4" width=50 height="50">
 <img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/ESLint_logo.svg" width="50" height="50">
-<img src="https://firebase.google.com/static/images/brand-guidelines/logo-knockout.png" width=50 height="50">
+<img src="https://git-scm.com/images/logos/logomark-black@2x.png" width="50" height="50">
 </div>
 <br>
 🌱 I’m currently learning:
 <br>
 <br>
 <div style="display: flex; justify-content: space-between;">
+<img src="https://firebase.google.com/static/images/brand-guidelines/logo-knockout.png" width=50 height="50">
 <img src="https://cdn.auth0.com/blog/testing-react-with-jest/logo.png" width="50" height="50">
 <img src="https://reactrouter.com/twitterimage.jpg" width="50" height="50"> 
 <img src= "https://testing-library.com/img/octopus-128x128.png" width="50" height="50">
