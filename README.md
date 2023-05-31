@@ -4,21 +4,17 @@
 
 const profile = {
   name: "Antonio Simonetti",
+  position: "italy",
   currentJob: "Web Developer",
   mainLanguage: "JavaScript",
-  progettoAttuale: "whereIsWaldo",
+  currentProject: "whereIsWaldo",
 };
 
 function userLife(name, currentJob, mainLanguage, progettoAttuale) {
-  console.log(`Ciao, sono ${name},`);
-  console.log(`un ${currentJob} che ama programmare in ${mainLanguage}.`);
-  console.log(`Attualmente sto lavorando su ${progettoAttuale}.`);
-  console.log(`simile alla scrittura di codice.`);
-  console.log(`È un percorso di apprendimento costante,`);
-  console.log(`in cui la tua identità e il tuo ruolo possono evolvere nel tempo.`);
-  console.log(`Tieni sempre viva la tua passione per la tecnologia`);
-  console.log(`e approfitta delle opportunità di crescita che si presentano lungo il cammino.`);
-  console.log(`Buona fortuna nella tua avventura come sviluppatore e nella tua vita!`);
+  console.log(`Ciao, sono ${name}`);
+  console.log(`un ${currentJob} che ama programmare in ${mainLanguage}`);
+  console.log(`in questo momento mi trovo ${position}`);
+  console.log(`Attualmente sto lavorando su ${currentProject}`);
 }
 
 // Start the user
