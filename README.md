@@ -5,7 +5,8 @@
 const profile = {
   name: "Antonio Simonetti",
   position: "italy",
-  currentJob: "Web Developer",
+  currentJobAsDev: false,
+  desiredJob: "Web Developer",
   mainLanguage: "JavaScript",
   interests: [Networking, Football, Gaming, Coding, Guitars],
   currentProject: "whereIsWaldo",
@@ -14,7 +15,7 @@ const profile = {
 
 function userLife(name, currentJob, mainLanguage, currentProject) {
   console.log(`Ciao, my name is ${profile.name}`);
-  console.log(`A ${currentJob} that code in ${profile.mainLanguage}`);
+  console.log(`A ${profile.desiredJob} that code in ${profile.mainLanguage}`);
   console.log(`right now I'm in ${profile.position}`);
   console.log(`I'm working on ${profile.currentProject}`);
 }
@@ -41,6 +42,8 @@ function becomeDev() {
 
 becomeDev();
 ```
+
+<img src="https://example.com/octocat.gif" alt="GitHub Octocat" style="width: 50px; height: 50px;">
 
 I enjoy working with various technologies. Here are some of the technologies I use:
 
