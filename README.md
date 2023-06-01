@@ -59,7 +59,7 @@ becomeDev();
 <img src="https://git-scm.com/images/logos/logomark-black@2x.png" width="50" height="50">
 </div>
 <br>
-## 🌱 I’m currently learning:
+# 🌱 I’m currently learning:
 <br>
 <br>
 <div style="display: flex; justify-content: space-between;">
@@ -69,7 +69,9 @@ becomeDev();
 <img src= "https://testing-library.com/img/octopus-128x128.png" width="50" height="50">
 </div>
 <br>
-## 📚 Technologies I'm loooking for:
+# 📚 Technologies I'm loooking for:
+<br>
+<br>
 <div style="display: flex; justify-content: space-between;">
 <img src="https://firebase.google.com/static/images/brand-guidelines/logo-knockout.png" width=50 height="50">
 <img src="https://cdn.auth0.com/blog/testing-react-with-jest/logo.png" width="50" height="50">
