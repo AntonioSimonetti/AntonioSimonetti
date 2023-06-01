@@ -45,7 +45,9 @@ function becomeDev() {
 becomeDev();
 ```
 
-<img src="https://i.imgur.com/6kPGijs.gif" width="250" height="250">
+<div style="display: flex; justify-content: center;">
+    <img src="https://i.imgur.com/6kPGijs.gif" alt="Animated GIF" style="width: 250px; height: 250px; object-fit: contain;">
+  </div>
 
 🚀 **I enjoy working with various technologies. Here are some of the technologies I use:**
 
