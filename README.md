@@ -44,7 +44,7 @@ function becomeDev() {
 becomeDev();
 ```
 
-<img src="https://e0.pxfuel.com/wallpapers/645/121/desktop-wallpaper-3840%C3%971200-dual-monitor-fantasy-1-dual-monitor-3840-x-1200-dual-screen.jpg" alt="ultrawideIm" style="width: 100%; height: 150px">
+<img src="https://e1.pxfuel.com/desktop-wallpaper/682/201/desktop-wallpaper-dual-monitor-dual-monitor-3840x1080.jpg" alt="ultrawideIm" style="width: 100%; height: 150px">
 
 🚀 **I enjoy working with various technologies. Here are some of the technologies I use:**
 
