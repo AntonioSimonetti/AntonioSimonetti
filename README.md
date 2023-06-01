@@ -43,9 +43,9 @@ function becomeDev() {
 becomeDev();
 ```
 
-<img src="https://i.imgur.com/6kPGijs.gif" width="50" height="50">
+<img src="https://i.imgur.com/6kPGijs.gif" width="250" height="250">
 
-I enjoy working with various technologies. Here are some of the technologies I use:
+🚀 I enjoy working with various technologies. Here are some of the technologies I use:
 
 <br>
 <div style="display: flex; justify-content: space-between;">
