@@ -58,6 +58,7 @@ becomeDev();
 <img src="https://avatars.githubusercontent.com/u/25822731?s=200&v=4" width=50 height="50">
 <img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/ESLint_logo.svg" width="50" height="50">
 <img src="https://git-scm.com/images/logos/logomark-black@2x.png" width="50" height="50">
+<img src="https://raw.githubusercontent.com/webpack/media/master/logo/icon.png" width="50" height="50">
 </div>
 <br>
 
