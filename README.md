@@ -59,7 +59,9 @@ becomeDev();
 <img src="https://git-scm.com/images/logos/logomark-black@2x.png" width="50" height="50">
 </div>
 <br>
+
 🌱 **I’m currently learning:**
+
 <br>
 <br>
 <div style="display: flex; justify-content: space-between;">
