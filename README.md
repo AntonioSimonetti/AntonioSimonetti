@@ -77,7 +77,7 @@ becomeDev();
 
 <br>
 <div style="display: flex; justify-content: space-between;">
-<img src="https://miro.medium.com/v2/resize:fit:760/1*oUH0ByyW-KOtLe1jAL2GqA.png" width=50 height="50">
+<img src="https://global.discourse-cdn.com/standard17/uploads/threejs/optimized/2X/e/e4f86d2200d2d35c30f7b1494e96b9595ebc2751_2_744x750.png" width=50 height="50">
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" width="50" height="50">
 </div>
 <br>
