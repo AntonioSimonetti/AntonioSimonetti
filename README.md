@@ -12,29 +12,34 @@ const profile = {
   currentChallenge: "complete the odin project curriculum ",
 };
 
-function userLife(name, currentJob, mainLanguage, progettoAttuale) {
-  console.log(`Ciao, my name is ${name}`);
-  console.log(`A ${currentJob} that code in ${mainLanguage}`);
-  console.log(`right now I'm in ${position}`);
-  console.log(`I'm working on ${currentProject}`);
+function userLife(name, currentJob, mainLanguage, currentProject) {
+  console.log(`Ciao, my name is ${profile.name}`);
+  console.log(`A ${currentJob} that code in ${profile.mainLanguage}`);
+  console.log(`right now I'm in ${profile.position}`);
+  console.log(`I'm working on ${profile.currentProject}`);
 }
 
 // Start the user
-userLife("Antonio Simonetti", "Web Developer", "JavaScript", "whereIsWaldo");
+userLife();
 
 // Fetch the data
 async function devMode() {
-  const frontendDEV = await fetch('https://fakeapi.com/frontendDEV');
   let fullstack = null;
+  const frontendDEV = await fetch('https://AntonioSimonettiAPI.com/frontendDEV/Status');
   if (frontendDEV === true) {
     fullstack = new Promise((resolve) => {
       resolve('Transitioning from frontend to fullstack');
     });
-  }
+  } else { return };
   return fullstack;
 }
 
-devMode();
+function becomeDev() {
+  const millisecondsInADay = 24 * 60 * 60 * 1000; // Number of milliseconds in a day
+  setInterval(devMode, millisecondsInADay);
+}
+
+becomeDev();
 ```
 
 I enjoy working with various technologies. Here are some of the technologies I use:
