@@ -7,20 +7,34 @@ const profile = {
   position: "italy",
   currentJob: "Web Developer",
   mainLanguage: "JavaScript",
-  prevProjects: [shoppingCart, memoryCard, battleship],
+  interests: [Networking, Football, Gaming, Coding, Guitars],
   currentProject: "whereIsWaldo",
-  challenge: "complete the odin project curriculum ",
+  currentChallenge: "complete the odin project curriculum ",
 };
 
 function userLife(name, currentJob, mainLanguage, progettoAttuale) {
-  console.log(`Ciao, sono ${name}`);
-  console.log(`un ${currentJob} che ama programmare in ${mainLanguage}`);
-  console.log(`in questo momento mi trovo in ${position}`);
-  console.log(`Attualmente sto lavorando su ${currentProject}`);
+  console.log(`Ciao, my name is ${name}`);
+  console.log(`A ${currentJob} that code in ${mainLanguage}`);
+  console.log(`right now I'm in ${position}`);
+  console.log(`I'm working on ${currentProject}`);
 }
 
 // Start the user
 userLife("Antonio Simonetti", "Web Developer", "JavaScript", "whereIsWaldo");
+
+// Fetch the data
+async function devMode() {
+  const frontendDEV = await fetch('https://fakeapi.com/frontendDEV');
+  let fullstack = null;
+  if (frontendDEV === true) {
+    fullstack = new Promise((resolve) => {
+      resolve('Transitioning from frontend to fullstack');
+    });
+  }
+  return fullstack;
+}
+
+devMode();
 ```
 
 I enjoy working with various technologies. Here are some of the technologies I use:
