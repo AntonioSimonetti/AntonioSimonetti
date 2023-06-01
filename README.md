@@ -1,4 +1,5 @@
-# Hi! Welcome to my GitHub profile! 👋
+# 👋 Hey there! Take a peek into my GitHub profile! 🖥️
+
 
 ```javascript
 
