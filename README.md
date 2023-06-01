@@ -77,8 +77,8 @@ becomeDev();
 
 <br>
 <div style="display: flex; justify-content: space-between;">
-<img src="https://xn--bl-8ia.com/wp-content/uploads/2022/03/three-js-threejs-logo-ble-blender.jpg" width=50 height="50">
-<img src="https://cdn.auth0.com/blog/testing-react-with-jest/logo.png" width="50" height="50">
+<img src="https://grant-bartlett.com/images/blog/three.png" width=50 height="50">
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" width="50" height="50">
 </div>
 <br>
 
