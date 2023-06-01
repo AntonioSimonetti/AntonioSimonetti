@@ -44,7 +44,7 @@ function becomeDev() {
 becomeDev();
 ```
 
-<img src="https://e1.pxfuel.com/desktop-wallpaper/516/516/desktop-wallpaper-ultrawide-21-9-cyberpunk-pc.jpg" alt="Animated GIF" style="width: 100%; height: 150px">
+<img src="https://i.pinimg.com/originals/2a/b7/ce/2ab7ce8bbbe0fb90f3fa11a27caf329c.gif" alt="Animated GIF" style="width: 100%; height: 150px">
 
 🚀 **I enjoy working with various technologies. Here are some of the technologies I use:**
 
