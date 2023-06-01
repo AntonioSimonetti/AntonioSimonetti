@@ -43,8 +43,9 @@ function becomeDev() {
 
 becomeDev();
 ```
-
+<div style="display: flex; justify-content: center;">
 <img src="https://i.imgur.com/6kPGijs.gif" width="250" height="250">
+</div>
 
 🚀 **I enjoy working with various technologies. Here are some of the technologies I use:**
 
