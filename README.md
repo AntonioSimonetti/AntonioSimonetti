@@ -77,7 +77,7 @@ becomeDev();
 
 <br>
 <div style="display: flex; justify-content: space-between;">
-<img src="https://seeklogo.com/images/T/three-js-logo-07A32307F1-seeklogo.com.png" width=50 height="50">
+<img src="https://miro.medium.com/v2/resize:fit:760/1*oUH0ByyW-KOtLe1jAL2GqA.png" width=50 height="50">
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" width="50" height="50">
 </div>
 <br>
