@@ -45,7 +45,7 @@ becomeDev();
 
 <img src="https://i.imgur.com/6kPGijs.gif" width="250" height="250">
 
-🚀 I enjoy working with various technologies. Here are some of the technologies I use:
+🚀 **I enjoy working with various technologies. Here are some of the technologies I use:**
 
 <br>
 <div style="display: flex; justify-content: space-between;">
@@ -59,7 +59,7 @@ becomeDev();
 <img src="https://git-scm.com/images/logos/logomark-black@2x.png" width="50" height="50">
 </div>
 <br>
-**🌱 I’m currently learning:**
+🌱 **I’m currently learning:**
 <br>
 <br>
 <div style="display: flex; justify-content: space-between;">
@@ -69,7 +69,7 @@ becomeDev();
 <img src= "https://testing-library.com/img/octopus-128x128.png" width="50" height="50">
 </div>
 <br>
-**📚 Tech I'm loooking for:**
+📚 **Tech I'm loooking for:**
 <br>
 <br>
 <div style="display: flex; justify-content: space-between;">
