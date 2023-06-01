@@ -43,7 +43,7 @@ function becomeDev() {
 becomeDev();
 ```
 
-<img src="https://example.com/octocat.gif" alt="GitHub Octocat" style="width: 50px; height: 50px;">
+<img src="https://giphy.com/embed/W8krmZSDxPIfm" style="width: 50px; height: 50px;">
 
 I enjoy working with various technologies. Here are some of the technologies I use:
 
