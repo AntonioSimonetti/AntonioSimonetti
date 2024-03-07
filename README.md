@@ -10,8 +10,8 @@ const profile = {
   desiredJob: "Web Developer",
   mainLanguage: "JavaScript",
   interests: [Networking, Football, Gaming, Coding, Guitars],
-  currentProject: "socialC",
-  currentChallenge: "complete the odin project curriculum ",
+  currentProject: "Designs Patterns I",
+  currentChallenge: "get a job!",
 };
 
 function userLife(name, currentJob, mainLanguage, currentProject) {
