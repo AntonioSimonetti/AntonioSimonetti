@@ -60,7 +60,7 @@ becomeDev();
 <img src="https://git-scm.com/images/logos/logomark-black@2x.png" width="50" height="50">
 <img src="https://raw.githubusercontent.com/webpack/media/master/logo/icon.png" width="50" height="50">
 <img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" width="50" height="50">
-<img src="https://reactrouter.com/twitterimage.jpg" width="50" height="50"> 
+<img src="https://reactrouter.com/_brand/React%20Router%20Brand%20Assets/React%20Router%20Lockup/Light.svg" width="50" height="50"> 
 </div>
 <br>
 
