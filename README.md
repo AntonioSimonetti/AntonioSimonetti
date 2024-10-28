@@ -10,7 +10,7 @@ const profile = {
   desiredJob: "Web Developer",
   mainLanguage: "JavaScript",
   interests: [Networking, Football, Gaming, Coding, Guitars],
-  currentProject: "Designs Patterns I",
+  currentProject: "Quiz App",
   currentChallenge: "get a job!",
 };
 
