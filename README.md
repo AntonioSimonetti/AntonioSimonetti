@@ -52,7 +52,7 @@ becomeDev();
 <div style="display: flex; justify-content: space-between;">
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="50" height="50">
 <img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/800px-Java_programming_language_logo.svg.png" width="50" height="50">
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/46/.NET_Core_Logo_2019.svg" width="50" height="50">
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Microsoft_.NET_logo.png" width="50" height="50">
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="50" height="50">
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="50" height="50">
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="50" height="50">
@@ -63,7 +63,7 @@ becomeDev();
 <img src="https://raw.githubusercontent.com/webpack/media/master/logo/icon.png" width="50" height="50">
 <img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" width="50" height="50">
 <img src="https://reactrouter.com/_brand/React%20Router%20Brand%20Assets/React%20Router%20Lockup/Light.svg" width="50" height="50"> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/SQL_logo.svg/1024px-SQL_logo.svg.png" width="50" height="50"
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" width="50" height="50"
 </div>
 <br>
 
