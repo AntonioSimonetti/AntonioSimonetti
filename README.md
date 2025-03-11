@@ -52,7 +52,6 @@ becomeDev();
 <div style="display: flex; justify-content: space-between;">
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="50" height="50">
 <img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/800px-Java_programming_language_logo.svg.png" width="50" height="50">
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Microsoft_.NET_logo.png" width="50" height="50">
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="50" height="50">
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="50" height="50">
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="50" height="50">
@@ -74,7 +73,6 @@ becomeDev();
 <img src="https://firebase.google.com/static/images/brand-guidelines/logo-knockout.png" width=50 height="50">
 <img src="https://cdn.auth0.com/blog/testing-react-with-jest/logo.png" width="50" height="50">
 <img src= "https://testing-library.com/img/octopus-128x128.png" width="50" height="50">
-<img src= "https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" width="50" height="50">
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" width="50" height="50">
 </div>
 <br>
