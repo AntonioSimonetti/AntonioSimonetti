@@ -51,7 +51,7 @@ becomeDev();
 <br>
 <div style="display: flex; justify-content: space-between;">
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="50" height="50">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Java_logo_icon.png/1024px-Java_logo_icon.png" width="50" height="50">
+<img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/800px-Java_programming_language_logo.svg.png" width="50" height="50">
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/46/.NET_Core_Logo_2019.svg" width="50" height="50">
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="50" height="50">
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="50" height="50">
